@@ -1,5 +1,5 @@
 {
-    "name": "kartik-v/yii2-editable",
+    "name": "hsegura/yii2-editable",
     "description": "An enhanced editable widget for Yii 2.0 that allows easy editing of displayed data with numerous configuration possibilities.",
     "keywords": ["bootstrap", "editable", "input", "widget", "popover-x", "popover", "jquery"],
     "homepage": "https://github.com/kartik-v/yii2-editable",
